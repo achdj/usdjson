@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "achille djegnon",
-	"description": "A project for freebootcamp roadmap"
+	"description": "A project for freebootcamp roadmap",
+	"keywords": ["freecodecamp", "descritive"]
 }
