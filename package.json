@@ -13,5 +13,6 @@
 	},
 	"author": "achille djegnon",
 	"description": "A project for freebootcamp roadmap",
-	"keywords": ["freecodecamp", "descritive"]
+	"keywords": ["freecodecamp", "descritive"],
+	"license": "MIT"
 }
